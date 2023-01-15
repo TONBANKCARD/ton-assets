@@ -955,5 +955,13 @@
  {
   "address": "-1:fcce4666e24e1f8efdc869d76875f056070324fb44e02ee5864047da10c9b4c4",
   "name": "DG Pool #2"
+ },
+ {
+  "address": "0:732abcdf0767e276842007812920b385e484838025f4accf3ab718783376b813",
+  "name": "TONBANKCARD"
+ },
+ {
+  "address": "0:ea86b4d1ebc96d9f71b350f8e70a42495c25f9a4b57469599936d7be573d4e12",
+  "name": "GRAMS"
  }
 ]
