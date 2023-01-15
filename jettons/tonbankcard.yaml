@@ -1,0 +1,7 @@
+name: TONBANKCARD
+description: Jetton for TONBANKCARD ecosystem
+address: 0:732abcdf0767e276842007812920b385e484838025f4accf3ab718783376b813
+symbol: TBC
+max_supply: 1000000000
+social:
+  - "https://t.me/tonbankcard"
