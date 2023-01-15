@@ -650,10 +650,22 @@
  },
  {
   "address": "0:732abcdf0767e276842007812920b385e484838025f4accf3ab718783376b813",
+  "description": "Jetton for TONBANKCARD ecosystem",
+  "max_supply": 1000000000,
   "name": "TONBANKCARD"
+  "social": [
+   "https://t.me/tonbankcard",
+  ],
+  "symbol": "TBC"
  },
  {
   "address": "0:ea86b4d1ebc96d9f71b350f8e70a42495c25f9a4b57469599936d7be573d4e12",
-  "name": "GRAMS"
+  "description": "Jetton GRAMS it is a WEB 3.0 exchange unit between human to human (H2H) within the TON (The Open Network) ecosystem.",
+  "max_supply": 1000000000,
+  "name": "GRAMS",
+  "social": [
+   "https://t.me/grampayton",
+  ],
+  "symbol": "GRM"
  }
 ]
