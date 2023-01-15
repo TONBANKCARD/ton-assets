@@ -153,6 +153,8 @@ Name           | Address
 [Zombie Queen Archer](https://tonapi.io/jetton/0:152df55bddf1d27d45ad9ccdfe91dbacd50f7f0e9d8abb980e69364e23d57a49) | EQAVLfVb3fHSfUWtnM3-kdus1Q9_Dp2Ku5gOaTZOI9V6SRNj
 [Zombie Rook Archer](https://tonapi.io/jetton/0:48c7ccab703e2231a4685472dffafca372443fa07c5399083198d7ee9f64cfbf) | EQBIx8yrcD4iMaRoVHLf-vyjckQ_oHxTmQgxmNfun2TPv6_q
 [Zombie Rook Warrior](https://tonapi.io/jetton/0:4bd3e6bd8f6802f3e66ce7f3537a6e5e5054e6caa0faa8f465aa46654e02b487) | EQBL0-a9j2gC8-Zs5_NTem5eUFTmyqD6qPRlqkZlTgK0h8yM
+[TONBANKCARD](https://tonapi.io/account/0:732abcdf0767e276842007812920b385e484838025f4accf3ab718783376b813) | EQBzKrzfB2fidoQgB4EpILOF5ISDgCX0rM86txh4M3a4Eygq
+[GRAMS](https://tonapi.io/account/0:ea86b4d1ebc96d9f71b350f8e70a42495c25f9a4b57469599936d7be573d4e12) | EQDqhrTR68ltn3GzUPjnCkJJXCX5pLV0aVmZNte-Vz1OEnIy
 
 
 ## Structure
