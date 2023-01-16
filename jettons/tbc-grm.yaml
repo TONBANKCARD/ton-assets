@@ -1,0 +1,12 @@
+name: TBC-GRM LP
+description: LP Jetton for TONBANKCARD FUND TBC-GRM on dedust.io
+image: "https://tonbankcard.com/images/icons/logo-tbc-grm.png"
+address: 0:54bc09bce4b7e1a06f78522dcd3d62052c9bb4590575869373df1bf4f0d236fc
+symbol: TBC-GRM
+max_supply: 987747224,0825999
+websites:
+  - "https://tonbankcard.com"
+  - "https://tonbankcard.ton"
+
+social:
+  - "https://t.me/tonbankcard_fund"
